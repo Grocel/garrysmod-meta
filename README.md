@@ -12,6 +12,7 @@ This especially involves topics such as:
 - Issues that are caused or affected by conflict of interest in the Facepunch staff.
 - Organizing efforts to neutralize the developer side tunnel vision around cetain issues.
 - Organizing efforts to neutralize potential issues with: Censorship, gaslighting or otherweise toxic behavour.
+- Issues that are caused or affected by gatekeeing if reasonable by nature.
 - Place to vent on issues you would get striken down for otherwise.
 
 This is not a place for:
