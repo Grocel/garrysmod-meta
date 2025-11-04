@@ -1,7 +1,7 @@
 # garrysmod-meta
 Inoffical meta repository about the development and management of Garry's Mod. Independent from Facepunch's moderation and development.
 
-Issues digussed here are not subject to Facepunch's moderation. So more uncomfortable and or hidden stuff about certain issues can be talked about without risks.
+Issues digussed here are not subject to Facepunch's moderation. So more uncomfortable and or hidden stuff about certain issues can be talked about here without direct risks.
 
 This especially involves topics such as:
 - Issues with bad community communication or management.
