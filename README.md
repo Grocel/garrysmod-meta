@@ -3,7 +3,7 @@ Unofficial meta repository about the development and management of Garry's Mod. 
 
 Issues dicussed here are not subject to Facepunch's moderation. So more uncomfortable and/or hidden stuff about certain issues can be discussed here without direct risks.
 
-This repository does not contain any code. [Dicussed content exists as Github issues.](https://github.com/Grocel/garrysmod-meta/issues)
+This repository does not contain any code. [Discussed content exists as Github issues.](https://github.com/Grocel/garrysmod-meta/issues)
 
 This especially involves topics such as:
 - Issues with bad community communication or management.
