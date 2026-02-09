@@ -21,6 +21,6 @@ This especially involves topics such as:
 This is not a place for:
 - Toxic behavior towards anyone, especially not towards Facepunch staff. This includes having a history of such.
 - Security issues and exploits that haven't been publicly disclosed to the official repository yet.
-- Anything around cheat or anti-cheats.
-- Anything malicious code or addons.
+- Anything around cheats or anti-cheats.
+- Anything about malicious code/addons.
 - Any other harmful content in any way.
